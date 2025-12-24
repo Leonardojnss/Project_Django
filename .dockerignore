@@ -1,0 +1,45 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Django
+*.log
+db.sqlite3
+staticfiles/
+media/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Git
+.git/
+.gitignore
+
+# Tests
+htmlcov/
+.coverage
+.pytest_cache/
+
+# Environment
+.env
+
+# System
+.DS_Store
+Thumbs.db
+
+# Documentation (DO NOT copy to Docker)
+passo_a_passo.md
+README.md
+.env.example
