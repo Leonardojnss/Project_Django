@@ -38,7 +38,7 @@ The project consists of a RESTful API developed with Django and Django REST Fram
 
 ### **1. Clone the repository:**
 ```bash
-git clone <your-repository>
+git clone https://github.com/Leonardojnss/Project_Django.git
 cd project_django
 ```
 
